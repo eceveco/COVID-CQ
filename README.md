@@ -6,4 +6,4 @@ We report on the preparation of a stance data set, called COVID-CQ, for user-gen
 
 In case you use the dataset please cite:
 
-Mutlu, E. Ç., Oghaz, T., Jasser, J., Tütüncüler, E., Rajabi, A., Tayebi, A., ... & Garibay, I. AStance DATA SET ON POLARIZED CONVERSATIONS ON TWITTER ABOUT THE EFFICACY OF HYDROXYCHLOROQUINE AS A TREATMENT FOR COVID-19.
+Mutlu, E. C., Oghaz, T. A., Jasser, J., Tütüncüler, E., Rajabi, A., Tayebi, A., Ozmen, O. O., & Garibay, I. (2020). A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19. *arXiv preprint arXiv:2009.01188*.
