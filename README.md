@@ -2,7 +2,9 @@
 
 # Twitter Stance Dataset
 
-We report on the preparation of a stance data set, called COVID-CQ, for user-generated content on Twitter in the context of the COVID-19 pandemic. Particularly, we investigated more than 14 thousands tweets and annotated the opinions of the tweet initiators regarding the use of "Chloroquine" and "Hydroxychloroquine" for the treatment or prevention from the coronavirus.
+We report on the preparation of a stance data set, called COVID-CQ, for user-generated content on Twitter in the context of the COVID-19 pandemic. Particularly, we investigated more than 14 thousand tweets and annotated the opinions of the tweet initiators regarding the use of "Chloroquine" and "Hydroxychloroquine" for the treatment or prevention from the coronavirus.
+
+In our annotation procedure, each annotator was asked to annotate the individual tweets as "Against","Favor" or "Neutral/None" for the unproven claim of "Cchloroquine/hydroxychloroquine is cure for the novel coronavirus".
 
 In case you use the dataset please cite:
 
