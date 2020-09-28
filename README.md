@@ -9,3 +9,8 @@ In our annotation procedure, each annotator was asked to annotate the individual
 In case you use the dataset please cite:
 
 Mutlu, E. C., Oghaz, T. A., Jasser, J., Tütüncüler, E., Rajabi, A., Tayebi, A., Ozmen, O. O., & Garibay, I. (2020). A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19. *arXiv preprint arXiv:2009.01188*.
+
+PS: Labels representation:
+0 -> None/Neutral
+1 -> Against
+2 -> Favor
