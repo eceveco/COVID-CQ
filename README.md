@@ -8,7 +8,18 @@ In our annotation procedure, each annotator was asked to annotate the individual
 
 In case you use the dataset please cite:
 
-Mutlu, E. C., Oghaz, T. A., Jasser, J., Tütüncüler, E., Rajabi, A., Tayebi, A., Ozmen, O. O., & Garibay, I. (2020). A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19. *arXiv preprint arXiv:2009.01188*.
+APA:
+Mutlu, E. C., Oghaz, T., Jasser, J., Tutunculer, E., Rajabi, A., Tayebi, A., Ozmen, O. & Garibay, I. (2020). A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19. Data in Brief, 106401.
+
+Bibtex:
+@article{mutlu2020stance,
+  title={A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19},
+  author={Mutlu, Ece C and Oghaz, Toktam and Jasser, Jasser and Tutunculer, Ege and Rajabi, Amirarsalan and Tayebi, Aida and Ozmen, Ozlem and Garibay, Ivan},
+  journal={Data in Brief},
+  pages={106401},
+  year={2020},
+  publisher={Elsevier}
+}
 
 PS: Labels representation:
 0 -> None/Neutral
